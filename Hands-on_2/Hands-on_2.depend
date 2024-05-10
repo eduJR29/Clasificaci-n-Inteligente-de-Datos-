@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1710303512 source:c:\users\atemajac\onedrive\documentos\9° semestre\clasificación inteligente de datos\hands-on_2\main.cpp
+	"iostream"
+	"DiscreteMaths.h"
+
+1712714623 source:c:\users\atemajac\onedrive\documentos\9° semestre\clasificación inteligente de datos\hands-on_2\src\discretemaths.cpp
+	"DiscreteMaths.h"
+	"DataSet.h"
+	"vector"
+	"iostream"
+	"cmath"
+
+1712714966 c:\users\atemajac\onedrive\documentos\9° semestre\clasificación inteligente de datos\hands-on_2\include\discretemaths.h
+	<iostream>
+	<vector>
+	<DataSet.h>
+
+1709510913 source:c:\users\atemajac\onedrive\documentos\9° semestre\clasificación inteligente de datos\hands-on_2\src\slr.cpp
+	"SLR.h"
+
+1709510913 c:\users\atemajac\onedrive\documentos\9° semestre\clasificación inteligente de datos\hands-on_2\include\slr.h
+
+1712707351 source:c:\users\atemajac\onedrive\documentos\9° semestre\clasificación inteligente de datos\hands-on_2\src\dataset.cpp
+	"DataSet.h"
+	"vector"
+
+1709611120 c:\users\atemajac\onedrive\documentos\9° semestre\clasificación inteligente de datos\hands-on_2\include\dataset.h
+	<iostream>
+	<vector>
+
