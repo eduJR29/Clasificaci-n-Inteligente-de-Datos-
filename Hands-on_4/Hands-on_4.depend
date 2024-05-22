@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1716349390 source:c:\users\atemajac\onedrive\documentos\9° semestre\hands-on_4\main.cpp
+	"KNN.h"
+	"Customer.h"
+	<iostream>
+	<vector>
+	<cmath>
+	<algorithm>
+	<string>
+	<map>
+
+1716350363 c:\users\atemajac\onedrive\documentos\9° semestre\hands-on_4\include\knn.h
+	"Customer.h"
+	<iostream>
+	<vector>
+	<cmath>
+	<algorithm>
+	<string>
+	<map>
+
+1716348585 c:\users\atemajac\onedrive\documentos\9° semestre\hands-on_4\include\customer.h
+	<iostream>
+	<vector>
+	<cmath>
+	<algorithm>
+	<string>
+	<map>
+
+1716349390 source:c:\users\atemajac\onedrive\documentos\9° semestre\hands-on_4\src\customer.cpp
+	"Customer.h"
+	<iostream>
+	<vector>
+	<cmath>
+	<algorithm>
+	<string>
+	<map>
+
+1716350363 source:c:\users\atemajac\onedrive\documentos\9° semestre\hands-on_4\src\knn.cpp
+	"KNN.h"
+	"Customer.h"
+	<iostream>
+	<vector>
+	<cmath>
+	<algorithm>
+	<string>
+	<map>
+
